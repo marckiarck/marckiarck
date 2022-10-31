@@ -26,7 +26,7 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
   <tr>
     <td>
 	<a href="https://github.com/marckiarck/Howl-of-Iron">
-  		<img src="https://user-images.githubusercontent.com/98056691/198890769-36bb5561-cfa9-4b86-9977-61b25088a4ea.png"> ***PLACEHOLDER***
+  		<img src="https://user-images.githubusercontent.com/98056691/198890769-36bb5561-cfa9-4b86-9977-61b25088a4ea.png">
 	</a>
 	<a href="https://github.com/marckiarck/Howl-of-Iron">Howl Of Iron</a>
 	</td>	   
@@ -57,6 +57,6 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Romano_Ibañez-FF0040?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=D8D8D8)](https://www.linkedin.com/in/marcos-romano-ib%C3%A1%C3%B1ez-538650161/)</br>
 
 
-## <img src = "https://media.giphy.com/media/htjx404WQPeEgwZ9Wl/giphy.gif" width = "60"> Contact
+## <img src = "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width = "35"> Contact 
 ![Email](https://img.shields.io/badge/Email-marcos.romano@expersor.es-FF0040?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=D8D8D8)
 </br>
