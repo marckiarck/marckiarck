@@ -32,7 +32,7 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
 	</td>	   
 	<td>
 	<a href="https://github.com/marckiarck/mri1001-tfg">
-  		<img src="https://user-images.githubusercontent.com/98056691/198890184-07684205-270a-4449-8e0b-21dc79a5a87a.jpg"> ***PLACEHOLDER***
+  		<img src="Images/TFG-Image.png">
 	</a>
 	<a href="https://github.com/marckiarck/mri1001-tfg">2D Platform Game (TFG)</a>
 	</td>	  
@@ -40,13 +40,13 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
   <tr>
 	 <td>
 	<a href="https://github.com/marckiarck/RogeLike">
-  		<img src="https://user-images.githubusercontent.com/98056691/198891037-958dc590-724f-4b59-9bf2-01a7cc61f170.png"> ***PLACEHOLDER***
+  		<img src="Images/RogePaloma-Image.png">
 	</a>
 	<a href="https://github.com/marckiarck/RogeLike">Rogue Paloma</a>
 	</td>	 
   <td>
 	<a href="https://github.com/marckiarck/practica-dms-2020-2021">
-  		<img src="https://user-images.githubusercontent.com/98056691/198891037-958dc590-724f-4b59-9bf2-01a7cc61f170.png"> ***PLACEHOLDER***
+  		<img src="Images/PracticaUni-Image.png" style=" width:60% ; height:60% ">
 	</a>
 	<a href="https://github.com/marckiarck/practica-dms-2020-2021">University Pratice (Sofware Ingeniering)</a>
 	</td>	
