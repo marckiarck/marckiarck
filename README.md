@@ -15,10 +15,10 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
 
 ## <img src = "https://media.giphy.com/media/WnCVJZqLBkM42IUJZs/giphy.gif" width = "40"> Skills
 
-![C++](https://img.shields.io/badge/C++-FF0040?style=for-the-badge&logo=c&logoColor=black&labelColor=D8D8D8)</br>
-![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-FF0040?style=for-the-badge&logo=unrealengine&logoColor=black&labelColor=D8D8D8)</br>
-![Unity](https://img.shields.io/badge/Unity-FF0040?style=for-the-badge&logo=unity&logoColor=black&labelColor=D8D8D8)</br>
-![Jira](https://img.shields.io/badge/Jira-FF0040?style=for-the-badge&logo=Atlassian&logoColor=black&labelColor=D8D8D8)</br>
+![C++](https://img.shields.io/badge/C++-32C832?style=for-the-badge&logo=c&logoColor=black&labelColor=D8D8D8)</br>
+![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-32C832?style=for-the-badge&logo=unrealengine&logoColor=black&labelColor=D8D8D8)</br>
+![Unity](https://img.shields.io/badge/Unity-32C832?style=for-the-badge&logo=unity&logoColor=black&labelColor=D8D8D8)</br>
+![Jira](https://img.shields.io/badge/Jira-32C832?style=for-the-badge&logo=Atlassian&logoColor=black&labelColor=D8D8D8)</br>
 
 ## <img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = "45"> My Projects
 
@@ -36,27 +36,25 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
 	</a>
 	<a href="https://github.com/marckiarck/mri1001-tfg">2D Platform Game (TFG)</a>
 	</td>	  
-  </tr>
-  <tr>
 	 <td>
 	<a href="https://github.com/marckiarck/RogeLike">
   		<img src="Images/RogePaloma-Image.png">
 	</a>
 	<a href="https://github.com/marckiarck/RogeLike">Rogue Paloma</a>
 	</td>	 
-  <td>
+	<td>
 	<a href="https://github.com/marckiarck/practica-dms-2020-2021">
-  		<img src="Images/PracticaUni-Image.png" style=" width:60% ; height:60% ">
+  		<img src="Images/PracticaUni-Image.png">
 	</a>
-	<a href="https://github.com/marckiarck/practica-dms-2020-2021">University Pratice (Sofware Ingeniering)</a>
+	<a href="https://github.com/marckiarck/practica-dms-2020-2021">University Practice (Sofware Ingeniering)</a>
 	</td>	
   </tr>
 </table>
 
-## <img src = "https://media.giphy.com/media/3BMX9JtQImFgdbZbIV/giphy.gif" width = "40"> Social Networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Romano_Ibañez-FF0040?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=D8D8D8)](https://www.linkedin.com/in/marcos-romano-ib%C3%A1%C3%B1ez-538650161/)</br>
+## <img src = "https://media.giphy.com/media/fsseDP7aIcqK6JIslG/giphy.gif" width = "40"> Social Networks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Romano_Ibáñez-9BCFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=D8D8D8)](https://www.linkedin.com/in/marcos-romano-ib%C3%A1%C3%B1ez-538650161/)</br>
 
 
 ## <img src = "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width = "35"> Contact 
-![Email](https://img.shields.io/badge/Email-marcos.romano@expersor.es-FF0040?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=D8D8D8)
+![Email](https://img.shields.io/badge/Email-marcos.romano@expersor.es-9BCFFF?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=D8D8D8)
 </br>
