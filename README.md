@@ -6,20 +6,23 @@ I studied an **Informatics Ingeniering Degree** at Burgos University. I focused 
 After that I studied **Game Programming Master's Degree** at U-Tad, Madrid. In that master I learned the basics of how to make video games as well as the necessary knowledge to create your own game engine. Also I worked with **Unreal Engine** and **Unity** game engines.
 
 For my master tesis I made a third person action-adventure game with othe 15 students named **Howl Of Iron**. Its was nice opportunity to work with a large team. together we bring out the best in ourselves to the point that we managed to win the award for **best game design** at the pstalents awards.
-</br>
+</br></br>
 You can find it here:</br>
 <a href="https://store.steampowered.com/app/2235790/Howl_of_Iron">
   	<img src="https://user-images.githubusercontent.com/98056691/198890769-36bb5561-cfa9-4b86-9977-61b25088a4ea.png" width = "150">
 </a></br>
 <a href="https://store.steampowered.com/app/2235790/Howl_of_Iron">Howl Of Iron</a>
-</br>
+</br></br>
 And here a little interview were I talk about my experience working in this project:</br>
 https://us.u-tad.com/2022/10/conoce-howl-of-iron-la-autentica-experiencia-hombre-lobo/
 </br></br>
-Currently I'm working in Pendulo Studio were I am working as Gameplay Programmer in **Tintin reporter - Cigars of the pharaoh**
+Currently I'm working in Pendulo Studio were I am working as Gameplay Programmer in **Tintin Reporter - Cigars of the pharaoh**
 </br>
 You can find it here:</br>
-https://store.steampowered.com/app/2125090/Tintin_Reporter__Los_Cigarros_del_Faraon/?l=spanish
+<a href="https://store.steampowered.com/app/2125090/Tintin_Reporter__Los_Cigarros_del_Faraon/?l=spanish">
+  	<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2125090/header_spanish.jpg?t=1699376034" width = "300">
+</a></br>
+<a href="https://store.steampowered.com/app/2125090/Tintin_Reporter__Los_Cigarros_del_Faraon/?l=spanish">Tintin Reporter - Cigars of the pharaoh</a>
 
 ## <img src = "https://media.giphy.com/media/wfKXywKxfKjzQ5NmXK/giphy.gif" width = "55"> About me
 
