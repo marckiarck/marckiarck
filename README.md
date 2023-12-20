@@ -7,8 +7,8 @@ After that I studied **Game Programming Master's Degree** at U-Tad, Madrid. In t
 
 For my master tesis I made a third person action-adventure game with othe 15 students named **Howl Of Iron**. Its was nice opportunity to work with a large team. together we bring out the best in ourselves to the point that we managed to win the award for **best game design** at the pstalents awards.
 You can find it here:</br>
-<img src = "https://media.giphy.com/media/wfKXywKxfKjzQ5NmXK/giphy.gif" width = "55">
 https://store.steampowered.com/app/2235790/Howl_of_Iron/
+</br>
 And here a little interview were I talk about my experience working in this project:
 https://us.u-tad.com/2022/10/conoce-howl-of-iron-la-autentica-experiencia-hombre-lobo/
 </br></br>
