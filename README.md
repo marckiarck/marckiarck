@@ -7,7 +7,7 @@ After that I studied **Game Programming Master's Degree** at U-Tad, Madrid. In t
 
 For my master tesis I made a third person action-adventure game with othe 15 students named **Howl Of Iron**. Its was nice opportunity to work with a large team. You can find it here:</br>
 https://store.steampowered.com/app/2235790/Howl_of_Iron/
-</br>
+</br></br></br>
 Currently I'm working in Pendulo Studio were I am working as Gameplay Programmer in **Tintin reporter - Cigars of the pharaoh**
 
 ## <img src = "https://media.giphy.com/media/wfKXywKxfKjzQ5NmXK/giphy.gif" width = "55"> About me
