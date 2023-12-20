@@ -68,10 +68,10 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
   </tr>
 </table>
 
-## <img src = "https://media.giphy.com/media/fsseDP7aIcqK6JIslG/giphy.gif" width = "40"> Social Networks
+</br></br>
+## <img src = "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width = "40"> Social Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Romano_Ibáñez-9BCFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=D8D8D8)](https://www.linkedin.com/in/marcos-romano-ib%C3%A1%C3%B1ez-538650161/)</br>
 
-
-## <img src = "https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width = "35"> Contact 
+## <img src = "https://media.giphy.com/media/fsseDP7aIcqK6JIslG/giphy.gif" width = "35"> Contact 
 ![Email](https://img.shields.io/badge/Email-marcos.romano@expersor.es-9BCFFF?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=D8D8D8)
 </br>
