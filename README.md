@@ -3,9 +3,9 @@
 
 I studied an **Informatics Ingeniering Degree** at Burgos University. I focused my studies at university on **Sofware Ingeniering**.
 
-Actually I'm studying **Game Programming Master's Degree** at U-Tad, Madrid. I'm learning the basics of how to make video games as well as the necessary knowledge to create your own game engine. Also I worked with **Unreal Engine** and **Unity** game engines.
+After that I studied **Game Programming Master's Degree** at U-Tad, Madrid. In that master I learned the basics of how to make video games as well as the necessary knowledge to create your own game engine. Also I worked with **Unreal Engine** and **Unity** game engines.
 
-Right now I'm finishing ***Howl of Iron***, my master's tesis and looking to get into the video game industry.
+For my master tesis I made a third person action game with othe 15 students.
 
 ## <img src = "https://media.giphy.com/media/wfKXywKxfKjzQ5NmXK/giphy.gif" width = "55"> About me
 
