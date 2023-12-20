@@ -5,7 +5,8 @@ I studied an **Informatics Ingeniering Degree** at Burgos University. I focused 
 
 After that I studied **Game Programming Master's Degree** at U-Tad, Madrid. In that master I learned the basics of how to make video games as well as the necessary knowledge to create your own game engine. Also I worked with **Unreal Engine** and **Unity** game engines.
 
-For my master tesis I made a third person action-adventure game with othe 15 students named **Howl Of Iron**. Its was nice opportunity to work with a large team. You can find it here:</br>
+For my master tesis I made a third person action-adventure game with othe 15 students named **Howl Of Iron**. Its was nice opportunity to work with a large team. together we bring out the best in ourselves to the point that we managed to win the award for **best game design** at the pstalents awards.
+You can find it here:</br>
 https://store.steampowered.com/app/2235790/Howl_of_Iron/
 </br></br>
 Currently I'm working in Pendulo Studio were I am working as Gameplay Programmer in **Tintin reporter - Cigars of the pharaoh**
