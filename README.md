@@ -54,7 +54,7 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
 	<a href="https://github.com/marckiarck/mri1001-tfg">2D Platform Game (TFG)</a>
 	</td>	  
 	<td>
-	<a href="[https://github.com/marckiarck/mri1001-tfg](https://github.com/marckiarck/Generic-Classes)">
+	<a href="https://github.com/marckiarck/Generic-Classes">
   		<img src="Images/LogoC.jpg">
 	</a>
 	<a href="https://github.com/marckiarck/Generic-Classes">Generic Classes for Unreal</a>
