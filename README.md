@@ -5,7 +5,7 @@ I studied an **Informatics Ingeniering Degree** at Burgos University. I focused 
 
 After that I studied **Game Programming Master's Degree** at U-Tad, Madrid. In that master I learned the basics of how to make video games as well as the necessary knowledge to create your own game engine. Also I worked with **Unreal Engine** and **Unity** game engines.
 
-For my master tesis I made a third person action-adventure game with othe 15 students named **Howl Of Iron**. Its was nice opportunity to work with a large team. together we bring out the best in ourselves to the point that we managed to win the award for **best game design** at the pstalents awards.
+For my master tesis I made a third person action-adventure game named **Howl Of Iron** with other 15 students. Its was nice opportunity to work with a large team. together we bring out the best in ourselves to the point that we managed to win the award for **best game design** at the pstalents awards.
 </br></br>
 You can find it here:</br>
 <a href="https://store.steampowered.com/app/2235790/Howl_of_Iron">
@@ -46,31 +46,31 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
   		<img src="https://user-images.githubusercontent.com/98056691/198890769-36bb5561-cfa9-4b86-9977-61b25088a4ea.png">
 	</a>
 	<a href="https://github.com/marckiarck/Howl-of-Iron">Howl Of Iron</a>
-	</td>	   
-	<td>
-	<a href="https://github.com/marckiarck/mri1001-tfg">
-  		<img src="Images/TFG-Image.png">
-	</a>
-	<a href="https://github.com/marckiarck/mri1001-tfg">2D Platform Game (TFG)</a>
-	</td>	  
+	</td>	
 	<td>
 	<a href="https://github.com/marckiarck/Generic-Classes">
   		<img src="Images/LogoC.jpg">
 	</a>
 	<a href="https://github.com/marckiarck/Generic-Classes">Generic Classes for Unreal</a>
-	</td>	
+	</td>
 	<td>
-	<a href="https://github.com/marckiarck/RogeLike">
-  		<img src="Images/RogePaloma-Image.png">
+	<a href="https://github.com/marckiarck/mri1001-tfg">
+  		<img src="Images/TFG-Image.png">
 	</a>
-	<a href="https://github.com/marckiarck/RogeLike">Rogue Paloma</a>
-	</td>	 
-	 <td>
+	<a href="https://github.com/marckiarck/mri1001-tfg">2D Platform Game (TFG)</a>
+	</td>	  	 
+	<td>
 	<a href="https://github.com/marckiarck/Gas-Module">
   		<img src="Images/UnrealEngineLogo.jpg">
 	</a>
 	<a href="https://github.com/marckiarck/Gas-Module">Module for GAS</a>
 	</td>
+	<td>
+	<a href="https://github.com/marckiarck/RogeLike">
+  		<img src="Images/RogePaloma-Image.png">
+	</a>
+	<a href="https://github.com/marckiarck/RogeLike">Rogue Paloma</a>
+	</td>	
 	<td>
 	<a href="https://github.com/marckiarck/practica-dms-2020-2021">
   		<img src="Images/PracticaUni-Image.png">
