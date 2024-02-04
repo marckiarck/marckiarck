@@ -5,7 +5,7 @@ I studied an **Informatics Ingeniering Degree** at Burgos University. I focused 
 
 After that I studied **Game Programming Master's Degree** at U-Tad, Madrid. In that master I learned the basics of how to make video games as well as the necessary knowledge to create your own game engine. Also I worked with **Unreal Engine** and **Unity** game engines.
 
-For my master tesis I made a third person action-adventure game named **Howl Of Iron** with other 15 students. Its was nice opportunity to work with a large team. together we bring out the best in ourselves to the point that we managed to win the award for **best game design** at the pstalents awards.
+For my master tesis I made a third person action-adventure game named **Howl Of Iron** with other 15 students. Its was nice opportunity to work with a large team. Together we bring out the best in ourselves to the point that we managed to win the award for **best game design** at the PSTalents Awards.
 </br></br>
 You can find it here:</br>
 <a href="https://store.steampowered.com/app/2235790/Howl_of_Iron">
