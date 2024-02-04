@@ -54,8 +54,8 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
 	<a href="https://github.com/marckiarck/mri1001-tfg">2D Platform Game (TFG)</a>
 	</td>	  
 	<td>
-	<a href="https://github.com/marckiarck/mri1001-tfg">
-  		<img src="Images/TFG-Image.png">
+	<a href="[https://github.com/marckiarck/mri1001-tfg](https://github.com/marckiarck/Generic-Classes)">
+  		<img src="Images/LogoC.jpg">
 	</a>
 	<a href="https://github.com/marckiarck/Generic-Classes">Generic Classes for Unreal</a>
 	</td>	
@@ -66,8 +66,8 @@ Furthermore I like **anime** and **table games**. I love so many animes I can't 
 	<a href="https://github.com/marckiarck/RogeLike">Rogue Paloma</a>
 	</td>	 
 	 <td>
-	<a href="https://github.com/marckiarck/RogeLike">
-  		<img src="Images/RogePaloma-Image.png">
+	<a href="https://github.com/marckiarck/Gas-Module">
+  		<img src="Images/UnrealEngineLogo.jpg">
 	</a>
 	<a href="https://github.com/marckiarck/Gas-Module">Module for GAS</a>
 	</td>
