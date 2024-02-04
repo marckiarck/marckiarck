@@ -13,10 +13,10 @@ You can find it here:</br>
 </a></br>
 <a href="https://store.steampowered.com/app/2235790/Howl_of_Iron">Howl Of Iron</a>
 </br></br>
-And here a little interview were I talk about my experience working in this project:</br>
+And here a little **interview** were I talk about my experience working in this project:</br>
 https://us.u-tad.com/2022/10/conoce-howl-of-iron-la-autentica-experiencia-hombre-lobo/
 </br></br>
-Currently I'm working in Pendulo Studio were I am working as Gameplay Programmer in **Tintin Reporter - Cigars of the pharaoh**
+Currently I'm working in **Pendulo Studio** were I am working as **Gameplay Programmer** in **Tintin Reporter - Cigars of the pharaoh**
 </br>
 You can find it here:</br>
 <a href="https://store.steampowered.com/app/2125090/Tintin_Reporter__Los_Cigarros_del_Faraon/?l=spanish">
